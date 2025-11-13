@@ -34,7 +34,7 @@ Engine & Tools
 - Language: C#  
 - Version Control: GitHub  
 - Art: Blender or free Unity Asset Store packs  
-- Music: Freesound / custom ambient loops  
+- Music: Freesound / custom ambient loops / FL Studio
 
 ---
 
@@ -45,13 +45,14 @@ Team Roles Needed
 - Sound Designer
 - Writers / Project Assistant (for GDD + testing)
 - Translators And Localizers (to attract international Audience)
+- Graphic Designers(for billboards and graffiti)
 
 ---
 
 Current Progress
 - Completed: Simple prototype (Cube Blast)  
 - Learning: Unity scripting and small system design  
-- In Progress: Defining gameplay modules and regional city ideas  
+- In Progress: Creating gameplay modules and regional city ideas  
 
 ---
 
@@ -71,8 +72,8 @@ Next Steps
 ---
 
  Contact / Community
-- Discord:   
-- GitHub:
+- Discord: https://discord.gg/yETBbXAu
+- GitHub: https://github.com/KiaradtheGitter156/devastate-game-repository
 - Looking for: beginner/intermediate Unity devs who want to learn together.
 
 ---
