@@ -45,7 +45,7 @@ Team Roles Needed
 - Sound Designer
 - Writers / Project Assistant (for GDD + testing)
 - Translators And Localizers (to attract international Audience)
-- Graphic Designers(for billboards and graffiti)
+- Graphic Designers(for billboards, logo, icon and graffiti)
 
 ---
 
